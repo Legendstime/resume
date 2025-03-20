@@ -1,9 +1,9 @@
-# Resume Website
+# Zheng's Resume Website
 
 This is a simple resume website showcasing personal information, skills, experience, and projects.
 
 ## 🚀 Live Demo
-You can view the live website here: [Legendstime Resume](https://legendstime.github.io/resume/)
+You can view the live website here: [Zheng L's Resume](https://legendstime.github.io/resume/)
 
 ## 📂 Project Structure
 ```
