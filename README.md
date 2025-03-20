@@ -7,6 +7,7 @@ You can view the live website here: [Zheng L's Resume](https://legendstime.githu
 
 ## 📂 Project Structure
 ```
+
 📦 resume
  ┣ 📂 images        # Contains images used in the resume
  ┣ 📜 index.html    # Main HTML file
