@@ -7,15 +7,14 @@ You can view the live website here: [Zheng L's Resume](https://legendstime.githu
 
 ## 📂 Project Structure
 ```
-
 📦 resume
  ┣ 📂 images        # Contains images used in the resume
  ┣ 📜 index.html    # Main HTML file
  ┣ 📜 style.css     # CSS file for styling
  ┗ 📜 README.md     # Project documentation
-
+```
 ## 📖 Features
-- Simple and clean resume template
+- Simple and clean resume
 - Responsive design for mobile and desktop
 - Hosted on GitHub Pages
 
@@ -23,7 +22,8 @@ You can view the live website here: [Zheng L's Resume](https://legendstime.githu
 To use this project locally:
 
 1. Clone the repository:
-   ```sh
+   ```
+   sh
    git clone https://github.com/Legendstime/resume.git
    ```
 2. Open `index.html` in your browser.
