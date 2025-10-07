@@ -60,7 +60,7 @@ nav ul {
 }
 
 nav ul li {
-  display: inline;
+  /* display: inline; */
   margin: 0 10px;
 }
 
@@ -96,10 +96,16 @@ section p {
 section ul {
   padding: 0;
   /* list-style: none; */
+  margin-left: 1em;
+}
+
+section li {
+  margin-left: 1em;
 }
 
 section ul li {
-  margin: 5px 0;
+  /* margin: 5px 0; */
+  /* margin-left: 1em; */
 }
 
 .sub-header {
