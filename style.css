@@ -80,7 +80,7 @@ main {
 }
 
 section {
-  margin: 10px 0;
+  margin: 5px 0;
 }
 
 section h2 {
@@ -89,9 +89,13 @@ section h2 {
   padding-bottom: 5px;
 }
 
+section p {
+  margin: 0;
+}
+
 section ul {
   padding: 0;
-  list-style: none;
+  /* list-style: none; */
 }
 
 section ul li {
@@ -107,11 +111,11 @@ section ul li {
 .sub-header h3,
 .sub-header p {
   margin: 0;
-  max-width: 80%;
+  max-width: 90%;
 }
 
 .sub-header span {
-  font-style: italic;
+  /* font-style: italic; */
 }
 
 footer {
